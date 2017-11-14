@@ -55,3 +55,7 @@
 * Cuando uno accede a ese enlace, se encuentra con una sección con artículos. En dicha sección, al extremo derecho, podemos encontrar categorías de artículos, las cuales corresponden a navegación facetada. Dentro del mismo artículo, podemos encontrar un enlace externo que corresponde a navegación lineal.
 
 ![Navegación Facetada y Lineal en GitHub](github4.png)
+
+* **Medium:** Al igual que ambas páginas anteriores, Medium contiene una barra de navegación principal en la parte superior (barra fija) que nos permite acceder al resto del sitio. Esta corresponde a navegación global y, al mismo tiempo, a una navegación facetada. Personalmente, me cuesta establecer si es una u otra por el tipo de medio que es Medium.
+
+![Navegación global en Medium](medium1.png)
