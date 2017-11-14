@@ -60,6 +60,15 @@
 
 ![Navegación global en Medium](medium1.png)
 
+* Al entrar a cada una de las secciones, nos podemos encontrar con artículos recomendados en base a su popularidad. Esto es navegación contextual.
+
+![Navegación contextual en Medium](medium2.png)
+
+* Asímismo, en cada artículo podemos encontrar ítems de navegación en línea cuando el autor decide señalar un enlace externo.
+
+![Navegación en línea en Medium](medium3.png)
+
+
 ## 3. Crea un sketch para la herramienta del dashboard de Laboratoria
 
 ![Sketch de un dashboard para Laboratoria](dashboard-sketch.png)
