@@ -59,3 +59,7 @@
 * **Medium:** Al igual que ambas páginas anteriores, Medium contiene una barra de navegación principal en la parte superior (barra fija) que nos permite acceder al resto del sitio. Esta corresponde a navegación global y, al mismo tiempo, a una navegación facetada. Personalmente, me cuesta establecer si es una u otra por el tipo de medio que es Medium.
 
 ![Navegación global en Medium](medium1.png)
+
+## 3. Crea un sketch para la herramienta del dashboard de Laboratoria
+
+![Sketch de un dashboard para Laboratoria](dashboard-sketch.png)
