@@ -71,4 +71,4 @@
 
 ## 3. Crea un sketch para la herramienta del dashboard de Laboratoria
 
-![Sketch de un dashboard para Laboratoria](dashboard-sketch.png)
+![Sketch de un dashboard para Laboratoria](dashboard-sketch2.png)
