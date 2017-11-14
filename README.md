@@ -15,43 +15,4 @@
 
 ![Eventos recomendados por Last.fm](lastfm-events.png)
 
-* **UI:** En cuanto a la interfaz de usuario, Last.fm se caracteriza por su presentación sencilla, con detalles en tonos rojos y negros, relacionados al logo de la marca. Tiene una barra de navegación estática que permite el acceso rápido a las principales páginas del sitio y un footer que se mantiene a lo largo de todas las páginas del sitio.
-
-## 2.  Identifica los elementos de navegación en los siguientes sites: Breather, Github y Medium.
-
-* **Breather:** La barra de navegación estática en este sitio así como el menú de hamburguesa que aparece al hacer click en "menu" corresponden a navegación global.
-
-![Barra de Navegación de Breather](breather1.png)
-![Menú de Hamburguesa de Breather](breather2.png)
-
-* Más abajo en el sitio existe una sección que corresponde a navegación facetada, pues contiene filtros predefinidos que nos permiten acceder a resultados en distintas categorías.
-
-![Facetada en Breather](breather3.png)
-
-* Luego existe una sección en dónde se le explica a los nuevos usuarios cómo utilizar el sitio. Identifico el tipo de navegación como suplementaria.
-
-![Navegación Suplementaria en Breather](breather4.png)
-
-* Dentro de la sección anterior, en el punto dos, existe un link de referencia que podemos considerar como de navegación en línea.
-
-![Navegación en Línea en Breather](breather5.png)
-
-* **Github:** Al igual que en Breather, la barra de navegación superior de Github corresponde a la navegación global.
-
-![Navegación Global en GitHub](github1.png)
-
-* Cuando uno entra en la sección "Marketplace", puede encontrar una sección que corresponde a la navegación facetada, pues contiene filtros preestablecidos para buscar herramientas que ayuden a programar mejor.
-
-![Navegación Facetada en GitHub](github2.png)
-
-* En la sección "Explore" existe una sección en dónde podemos encontrar recomendaciones de repositorios basados en distintos criterios. Esto corresponde a navegación contextual.
-
-![Navegación Contextual en GitHub](github3.png)
-
-* En la página principal, aparece un pequeño cuadro con un artículo recomendado. Esto también corresponde a navegación contextual:
-
-![Navegación Contextual en GitHub](github5.png)
-
-* Cuando uno accede a ese enlace, se encuentra con una sección con artículos. En dicha sección, al extremo derecho, podemos encontrar categorías de artículos, las cuales corresponden a navegación facetada. Dentro del mismo artículo, podemos encontrar un enlace externo que corresponde a navegación lineal.
-
-![Navegación Facetada y Lineal en GitHub](github4.png)
+* **UI:** En cuanto a la interfaz de usuario, Last.fm se caracteriza por su presentación sencilla, con detalles en tonos rojos y negros, relacionados al logo de la marca. Tiene una barra de navegación estática que permite el acceso rápido a las principales páginas del sitio 
